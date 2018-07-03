@@ -1,0 +1,1 @@
+﻿Very simple wrapper around the SmtpClient
